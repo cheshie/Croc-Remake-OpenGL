@@ -8,4 +8,8 @@ W,S,A,D  -> moving the main character
 SPACE    -> jump / double jump
 c        -> attack
 x        -> camera rotation (180 deg.)
+
+
+You can watch it here: 
+https://youtu.be/5OPHZqqBzD0
  
