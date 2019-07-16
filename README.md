@@ -5,8 +5,11 @@ Description: Getting back to the end of 90's
 Controls: 
 
 W,S,A,D  -> moving the main character
+
 SPACE    -> jump / double jump
+
 c        -> attack
+
 x        -> camera rotation (180 deg.)
 
 
