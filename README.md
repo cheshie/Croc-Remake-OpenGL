@@ -1,14 +1,11 @@
-Nazwa gry: "Croc Gobbos: Tribute"
-Twórca: Przemyslaw Samsel
-Opis: Powrót do koñcówki lat 90' ubieg³ego wieku.
-      Próba wprowadzenia w klimat jednej z pierwszych
-      produkcji w œrodowisku 3D, która okaza³a siê 
-      tak wielkim sukcesem. 
+Description: Getting back to the end of 90's
+             An attempt to create remake (a kind of tribute) to the 
+             amazing Croc: The Legend of The Gobbos - one of first 3D games at the time
 
-Sterowanie: 
+Controls: 
 
-W,S,A,D  -> poruszanie postaci¹
-SPACE    -> skok / podwójny skok
-c        -> atak ogonem
-x        -> obrot kamery o 180 stopni
+W,S,A,D  -> moving the main character
+SPACE    -> jump / double jump
+c        -> attack
+x        -> camera rotation (180 deg.)
  
