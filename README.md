@@ -13,5 +13,4 @@ x        -> camera rotation (180 deg.)
 You can watch it here: 
 https://youtu.be/5OPHZqqBzD0
 
-[[https://github.com/PrzemyslawSamsel/Croc-Remake-OpenGL/blob/master/game_screenshot1.png]]
- 
+![alt text](https://github.com/PrzemyslawSamsel/Croc-Remake-OpenGL/blob/master/game_screenshot1.png)
